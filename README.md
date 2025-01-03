@@ -13,7 +13,6 @@ A feature-rich calendar application built with React, Vite, and Material-UI, des
 - **Build Tool**: Vite
 - **Database**: Google Firebase Firestore Data base
 - **Backend**:Node.js
-
 ## Installation and Setup
 **Clone the Repository**
    ```bash
